@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Taskino_Ferramenta.props" />
+</Project>

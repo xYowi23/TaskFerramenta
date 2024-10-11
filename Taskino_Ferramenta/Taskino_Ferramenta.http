@@ -1,0 +1,6 @@
+@Taskino_Ferramenta_HostAddress = http://localhost:5299
+
+GET {{Taskino_Ferramenta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

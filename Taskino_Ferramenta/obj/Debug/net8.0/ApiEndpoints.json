@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Taskino_Ferramenta.Controllers.RepartoController",
+    "Method": "CercaPerCodice",
+    "RelativePath": "api/reparti/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Taskino_Ferramenta.Models.RepartoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
