@@ -1,5 +1,140 @@
 [
   {
+    "ContainingType": "Taskino_Ferramenta.Controllers.ProdottoController",
+    "Method": "InserisceReparto",
+    "RelativePath": "api/prodotti",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pDTO",
+        "Type": "Taskino_Ferramenta.Models.ProdottoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taskino_Ferramenta.Controllers.ProdottoController",
+    "Method": "CercaPerCodice",
+    "RelativePath": "api/prodotti/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Taskino_Ferramenta.Models.ProdottoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Taskino_Ferramenta.Controllers.ProdottoController",
+    "Method": "EliminaProdotto",
+    "RelativePath": "api/prodotti/{varCodice}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taskino_Ferramenta.Controllers.ProdottoController",
+    "Method": "AggiornaProdotto",
+    "RelativePath": "api/prodotti/{varCodice}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "des",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "prez",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "quant",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "reprif",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taskino_Ferramenta.Controllers.ProdottoController",
+    "Method": "ElencoProdotti",
+    "RelativePath": "api/prodotti/tutti",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Taskino_Ferramenta.Models.ProdottoDTO, Taskino_Ferramenta, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Taskino_Ferramenta.Controllers.RepartoController",
+    "Method": "InserisceReparto",
+    "RelativePath": "api/reparti",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rDTO",
+        "Type": "Taskino_Ferramenta.Models.RepartoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Taskino_Ferramenta.Controllers.RepartoController",
     "Method": "CercaPerCodice",
     "RelativePath": "api/reparti/{varCodice}",
@@ -16,6 +151,68 @@
     "ReturnTypes": [
       {
         "Type": "Taskino_Ferramenta.Models.RepartoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Taskino_Ferramenta.Controllers.RepartoController",
+    "Method": "EliminaReparto",
+    "RelativePath": "api/reparti/{varCodice}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taskino_Ferramenta.Controllers.RepartoController",
+    "Method": "AggiornaReparto",
+    "RelativePath": "api/reparti/{varCodice}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fil",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taskino_Ferramenta.Controllers.RepartoController",
+    "Method": "ElencoReparti",
+    "RelativePath": "api/reparti/tutti",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Taskino_Ferramenta.Models.RepartoDTO, Taskino_Ferramenta, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

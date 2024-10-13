@@ -23,6 +23,7 @@ namespace Taskino_Ferramenta
             builder.Services.AddScoped<RepartoRepo>();
             builder.Services.AddScoped<ProdottoRepo>();
             builder.Services.AddScoped<RepartoService>();
+            builder.Services.AddScoped<ProdottoService>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -36,6 +37,9 @@ namespace Taskino_Ferramenta
 
 
             app.MapControllers();
+
+            app.UseCors(builder => builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader()
+            );
 
             app.Run();
         }

@@ -10,8 +10,8 @@ namespace Taskino_Ferramenta.Models
 
         public string RepartoCOD { get; set; } = null!;
 
-        public string Nome { get; set; } = null!;
-        public string Fila { get; set; } = null!;
+        public string? Nome { get; set; } 
+        public string? Fila { get; set; } 
 
     }
 }

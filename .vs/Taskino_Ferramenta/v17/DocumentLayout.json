@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\repos\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\repos\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\models\\repartodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\models\\repartodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\repos\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\repos\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\repos\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +39,24 @@
       "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\models\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\models\\repartodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\models\\repartodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\models\\prodottodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\models\\prodottodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|solutionrelative:taskino_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50556FBB-AB64-4565-A057-AE5FB52522B3}|Taskino_Ferramenta\\Taskino_Ferramenta.csproj|c:\\users\\utente\\source\\api\\taskino_ferramenta\\taskino_ferramenta\\models\\paradisogiovanninocontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,8 +69,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 290,
-          "SelectedChildIndex": 8,
+          "DockedWidth": 396,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,52 +78,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Services\\IService.cs",
-              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Services\\IService.cs",
-              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Services\\IService.cs",
-              "RelativeToolTip": "Taskino_Ferramenta\\Services\\IService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:45:41.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RepartoRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Repos\\RepartoRepo.cs",
-              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Repos\\RepartoRepo.cs",
-              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Repos\\RepartoRepo.cs",
-              "RelativeToolTip": "Taskino_Ferramenta\\Repos\\RepartoRepo.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwAsAAAAJAAAAAAAAAA==",
+              "Title": "ProdottoController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Controllers\\ProdottoController.cs",
+              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Controllers\\ProdottoController.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Controllers\\ProdottoController.cs",
+              "RelativeToolTip": "Taskino_Ferramenta\\Controllers\\ProdottoController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:36:58.115Z",
+              "WhenOpened": "2024-10-11T10:40:10.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RepartoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\RepartoDTO.cs",
-              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Models\\RepartoDTO.cs",
-              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\RepartoDTO.cs",
-              "RelativeToolTip": "Taskino_Ferramenta\\Models\\RepartoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProdottoService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Services\\ProdottoService.cs",
+              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Services\\ProdottoService.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Services\\ProdottoService.cs",
+              "RelativeToolTip": "Taskino_Ferramenta\\Services\\ProdottoService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T08:11:04.349Z",
+              "WhenOpened": "2024-10-11T10:25:28.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ProdottoRepo.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Repos\\ProdottoRepo.cs",
               "RelativeDocumentMoniker": "Taskino_Ferramenta\\Repos\\ProdottoRepo.cs",
               "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Repos\\ProdottoRepo.cs",
               "RelativeToolTip": "Taskino_Ferramenta\\Repos\\ProdottoRepo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T07:32:46.797Z",
               "EditorCaption": ""
@@ -111,71 +118,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Reparto.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\Reparto.cs",
-              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Models\\Reparto.cs",
-              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\Reparto.cs",
-              "RelativeToolTip": "Taskino_Ferramenta\\Models\\Reparto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:11:46.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Prodotto.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\Prodotto.cs",
-              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Models\\Prodotto.cs",
-              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\Prodotto.cs",
-              "RelativeToolTip": "Taskino_Ferramenta\\Models\\Prodotto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:12:08.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "IRepo.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Repos\\IRepo.cs",
               "RelativeDocumentMoniker": "Taskino_Ferramenta\\Repos\\IRepo.cs",
               "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Repos\\IRepo.cs",
               "RelativeToolTip": "Taskino_Ferramenta\\Repos\\IRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T15:33:42.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RepartoController.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Controllers\\RepartoController.cs",
-              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Controllers\\RepartoController.cs",
-              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Controllers\\RepartoController.cs",
-              "RelativeToolTip": "Taskino_Ferramenta\\Controllers\\RepartoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Services\\IService.cs",
+              "RelativeToolTip": "Taskino_Ferramenta\\Services\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T08:44:47.849Z",
+              "WhenOpened": "2024-10-11T07:45:41.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RepartoService.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Services\\RepartoService.cs",
-              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Services\\RepartoService.cs",
-              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Services\\RepartoService.cs",
-              "RelativeToolTip": "Taskino_Ferramenta\\Services\\RepartoService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAApAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Program.cs",
+              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Program.cs",
+              "RelativeToolTip": "Taskino_Ferramenta\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:48:25.541Z",
+              "WhenOpened": "2024-10-11T10:38:21.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\appsettings.json",
+              "RelativeDocumentMoniker": "Taskino_Ferramenta\\appsettings.json",
+              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\appsettings.json",
+              "RelativeToolTip": "Taskino_Ferramenta\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T18:02:08.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ParadisoGiovanninoContex.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\ParadisoGiovanninoContex.cs",
               "RelativeDocumentMoniker": "Taskino_Ferramenta\\Models\\ParadisoGiovanninoContex.cs",
@@ -183,7 +177,105 @@
               "RelativeToolTip": "Taskino_Ferramenta\\Models\\ParadisoGiovanninoContex.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:03:52.056Z"
+              "WhenOpened": "2024-10-10T15:03:52.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 505,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepartoService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Services\\RepartoService.cs",
+              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Services\\RepartoService.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Services\\RepartoService.cs",
+              "RelativeToolTip": "Taskino_Ferramenta\\Services\\RepartoService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:48:25.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepartoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\RepartoDTO.cs",
+              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Models\\RepartoDTO.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\RepartoDTO.cs",
+              "RelativeToolTip": "Taskino_Ferramenta\\Models\\RepartoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:11:04.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepartoController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Controllers\\RepartoController.cs",
+              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Controllers\\RepartoController.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Controllers\\RepartoController.cs",
+              "RelativeToolTip": "Taskino_Ferramenta\\Controllers\\RepartoController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwD4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:05:32.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepartoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Repos\\RepartoRepo.cs",
+              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Repos\\RepartoRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Repos\\RepartoRepo.cs",
+              "RelativeToolTip": "Taskino_Ferramenta\\Repos\\RepartoRepo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:36:58.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reparto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\Reparto.cs",
+              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Models\\Reparto.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\Reparto.cs",
+              "RelativeToolTip": "Taskino_Ferramenta\\Models\\Reparto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:11:46.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdottoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\ProdottoDTO.cs",
+              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Models\\ProdottoDTO.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\ProdottoDTO.cs",
+              "RelativeToolTip": "Taskino_Ferramenta\\Models\\ProdottoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:18:37.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "Taskino_Ferramenta\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\Api\\Taskino_Ferramenta\\Taskino_Ferramenta\\Models\\Prodotto.cs",
+              "RelativeToolTip": "Taskino_Ferramenta\\Models\\Prodotto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:13:13.045Z",
+              "EditorCaption": ""
             }
           ]
         }

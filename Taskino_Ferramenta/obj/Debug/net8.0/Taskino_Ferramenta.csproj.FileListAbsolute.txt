@@ -140,3 +140,4 @@ C:\Users\Utente\source\Api\Taskino_Ferramenta\Taskino_Ferramenta\obj\Debug\net8.
 C:\Users\Utente\source\Api\Taskino_Ferramenta\Taskino_Ferramenta\obj\Debug\net8.0\Taskino_Ferramenta.pdb
 C:\Users\Utente\source\Api\Taskino_Ferramenta\Taskino_Ferramenta\obj\Debug\net8.0\Taskino_Ferramenta.genruntimeconfig.cache
 C:\Users\Utente\source\Api\Taskino_Ferramenta\Taskino_Ferramenta\obj\Debug\net8.0\ref\Taskino_Ferramenta.dll
+C:\Users\Utente\source\Api\Taskino_Ferramenta\Taskino_Ferramenta\obj\Debug\net8.0\Taskino_Ferramenta.sourcelink.json
